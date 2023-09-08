@@ -5,7 +5,8 @@
 
 This is a homework task - [Winter is coming](https://github.com/mysteriumnetwork/winter-is-coming)
 
-## Run 
+## Run
+
 
 Make sure your go install is [correctly configured](https://golang.org/doc/install#testing) then and run `make run` or build the binary yourself with `go build cmd/main.go` and run it.
 
