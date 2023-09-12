@@ -12,4 +12,3 @@ test:
 
 run: build
 	env $(shell cat ./cmd/environment) ./build/${BINARY}
-
